@@ -21,7 +21,21 @@ Storage of user data in Firebase.
 Responsive interface optimized for mobile and PC.
 
 Visual replica of the TDEA institutional portal.
-## imagen
+
+## Web
+![](images1/fondo1.PNG)
+![](images1/fondo2.PNG)
+![](images1/fondo3.PNG)
+![](images1/fondo4.PNG)
+
+## Mobile
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="images1/fondo5.jpeg" width="250"/>
+  <img src="images1/fondo6.jpeg" width="250"/>
+  <img src="images1/fondo7.jpeg" width="250"/>
+</div>
+
 
 
 ## System Behavior
@@ -32,3 +46,7 @@ At the same time, the entered data is stored in Firebase for later analysis or d
 The goal is to illustrate the risks of phishing and the importance of cybersecurity.
 
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="images1/fondo8.jpeg" width="250"/>
+  <img src="images1/fondo9.jpeg" width="250"/>
+</div>
